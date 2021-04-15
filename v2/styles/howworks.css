@@ -1,0 +1,17 @@
+.howwoks-container {
+  width: 100%;
+  color: var(--body);
+}
+
+.howwoks-content {
+  max-width: 1024px;
+  margin: 0 auto;
+  margin: 2rem auto 2rem;
+}
+
+.howworks-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 1rem;
+  margin-top: 1rem;
+}

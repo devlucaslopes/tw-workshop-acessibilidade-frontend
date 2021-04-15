@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+:root {
+  --background: #162521;
+  --body: #162521;
+  --hightlight: #35a7ff;
+}
+
+a {
+  color: var(--hightlight);
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.escondido {
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+  position: absolute;
+  left: -1px;
+}
