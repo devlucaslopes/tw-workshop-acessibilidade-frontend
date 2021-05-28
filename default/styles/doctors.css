@@ -28,13 +28,13 @@
 }
 
 .doctor-profile strong {
-  margin: 1rem 0;
+  margin: 16px 0;
 }
 
-.doctor-profile ul {
-  margin-bottom: 1rem;
+.doctor-profile .list {
+  margin-bottom: 16px;
 }
 
 .doctors-content:last-child > p {
-  margin-top: 1rem;
+  margin-top: 16px;
 }
